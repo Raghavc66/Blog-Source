@@ -1,4 +1,4 @@
-baseURL = "https://<Github-userid>.github.io/"
+baseURL = "https://raghavc66.github.io/"
 publishDir = "../MySite"
 
 languageCode = "en-us"
